@@ -103,7 +103,7 @@
 
 ## 捐助
 
-<img alt="wechat" width="250" src="https://github.com/liuchuancong/pure_live/blob/master/assets/images/wechat.png">
+<img alt="wechat" width="250" src="https://jihulab.com/shinegirls/tvbox/-/raw/main/%E8%B5%9E%E8%B5%8F%E7%A0%81.png">
 
 
 感谢您的支持!
